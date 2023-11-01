@@ -7,7 +7,9 @@ import java.util.Stack;
 import java.util.ArrayList;
 import java.io.*;
 
-
+/**
+ * The main class for the program.
+ */
 public class JumpTableMain { 
 	public static void main(String[] args) { 
 		Screen screen = new Screen(); 
